@@ -1,0 +1,62 @@
+body{
+   
+    justify-items: center;
+}
+.main{
+
+    display: flex;
+    text-align: center;
+    
+}
+#btn{
+    height: 200px;
+    width: 200px;
+    border: 5px solid rgb(78, 147, 147);
+    box-shadow: 2px 2px 10px aqua;
+    margin: 2rem;
+    border-radius: 20%;
+    
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.red{
+    color: rgb(155, 29, 29);
+    background-color: rgb(155, 29, 29);
+}
+.yellow{
+    color: rgb(171, 171, 21);;
+    background-color: rgb(171, 171, 21);
+}
+.pink{
+    color: rgb(218, 127, 142);
+    background-color: rgb(218, 127, 142);
+}
+.blue{
+    color:  rgb(7, 7, 139);
+    background-color: rgb(7, 7, 139);
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: rgb(54, 111, 54);
+}
+.link{
+    font-size:large;
+    text-decoration: none;
+}
+.link:hover{
+
+    text-decoration: underline;
+}
+.link{
+    text-decoration: none;
+}
+.link:hover{
+    text-decoration: underline;
+}
